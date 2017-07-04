@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name		= "TSArray"
-  s.version		= "0.0.1"
-  s.summary		= "A short description of TSArray."
+  s.version		= "1.0.0"
+  s.summary		= "TSArray is a thread-safe mutable array."
   s.homepage		= "https://github.com/JackIsCoding/TSArray"
   s.license             = "MIT"
   s.author              = { "JackIsCoding" => "286741105@qq.com" }
